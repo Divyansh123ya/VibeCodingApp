@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Direct",
+  "description": "High-conversion modern electronics, workspace, and home hardware retail storefront built on the Retail Trust System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
